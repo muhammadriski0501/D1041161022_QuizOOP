@@ -1,0 +1,48 @@
+Muhammad Riski
+D1041161022
+
+1. Modifier
+	- private String KEY_NAME = "NAMA";
+	- private String name;
+   	- private String KEY_NAME = "NAMA";
+
+
+2. Method
+	-  protected void onCreate(Bundle savedInstanceState) {}
+	-  protected void onCreate(Bundle savedInstanceState) {}
+	-  protected void onCreate(Bundle savedInstanceState) {}
+	-  protected void onCreate(Bundle savedInstanceState) {}
+
+3. Class
+	- class MainActivity{}
+	- class count{}
+
+4. Function
+	-  protected void onCreate(Bundle savedInstanceState) {}
+	-  protected void onCreate(Bundle savedInstanceState) {}
+	-  protected void onCreate(Bundle savedInstanceState) {}
+	
+
+5. Constructor
+	- public class User {
+  		 public String username;
+   		 public String password;
+
+    	      public User(String username, String password){
+        	  this.username = username;
+        	  this.password = password;
+   			 }
+		}	
+
+6. Polimorfisme
+	- Intent i = new Intent(MainActivity.this, count.class);
+	- Intent i = new Intent(SecondActivity.this, count.class);
+	- Bundle extras = getIntent().getExtras();
+
+7. inheritence
+	- public class MainActivity extends AppCompatActivity {}
+
+  	- public class count extends AppCompatActivity {}
+
+	- public class SecondActivity extends AppCompatActivity {}
+
